@@ -1,9 +1,0 @@
-﻿CustomerClass | RateSchedule | ComponentName | ComponentType | Unit | EffectiveStart | EffectiveEnd | Value
-Residential | RS1 | Customer Charge | Fixed | $/month | 2025-01-01 | 2025-12-31 | 10
-Residential | RS1 | Energy Charge | Variable | $/kWh | 2025-01-01 | 2025-12-31 | 0.1200
-Residential | RS1 | Fuel Adder | Variable | $/kWh | 2025-01-01 | 2025-12-31 | 0.0300
-Residential | RS1 | Adjustment Adder | Variable | $/kWh | 2025-01-01 | 2025-12-31 | 0.0050
-Residential | RS1 | Customer Charge | Fixed | $/month | 2026-01-01 | 2026-12-31 | 12
-Residential | RS1 | Energy Charge | Variable | $/kWh | 2026-01-01 | 2026-12-31 | 0.1250
-Residential | RS1 | Fuel Adder | Variable | $/kWh | 2026-01-01 | 2026-12-31 | 0.0280
-Residential | RS1 | Adjustment Adder | Variable | $/kWh | 2026-01-01 | 2026-12-31 | 0.0060
